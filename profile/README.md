@@ -1,6 +1,8 @@
 ![image](https://github.com/traveler-company/.github/blob/main/images/traveler-baner.jpg?raw=true)
 # 🌎 Traveler
 
+> Travel smarter, not harder, with Traveler.
+
 Traveler is your ultimate travel companion. Plan your trips, get destination recommendations, and access handy tools like currency converter and weather forecasts all in one app. With Traveler, you can easily organize your itinerary, track your budget, and pack like a pro. Plus, keep all your travel history and preferences in one place. Let Traveler take the stress out of travel planning, so you can focus on making unforgettable memories!
 
 ## 🚀 Features
