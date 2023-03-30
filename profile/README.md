@@ -15,7 +15,7 @@ Traveler app offers the following features:
 
 - **🌴 Destination recommendations**: Get personalized recommendations for destinations based on your preferences, budget, and travel history.
 
-- **🗺️ Travel history**: Keep track of your past travels and share your experiences with others.
+- **📜 Travel history**: Keep track of your past travels and share your experiences with others.
 
 ## 💻 Technology Stack
 
